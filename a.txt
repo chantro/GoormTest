@@ -1,8 +1,3 @@
 Hello World!
-<<<<<<< HEAD
 my name is main.
-the branch name is main
-=======
-my name is suhyun
-the branch name is suhyun.
->>>>>>> f1fabf5e439f726cff9060db8c2b88ccb54c7908
+the branch name is main....
