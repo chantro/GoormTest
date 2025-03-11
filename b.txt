@@ -1,1 +1,2 @@
-my name is {key}.
+My hobby is coding.
+I love exercising
